@@ -67,6 +67,7 @@ namespace C0731712
             coco.nextdog = null;
         }
 
+
         public void walkoverthelist()
         {
             current = head;
